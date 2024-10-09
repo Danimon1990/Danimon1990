@@ -2,8 +2,8 @@
 - 👀 I’m interested in Machine Learning in the Apple ecosystem
 - 🌱 I’m currently learning CoreML
 - 💞️ I’m looking to collaborate on AI Models
-- 📫 How to reach me a message here
-- 😄 Pronouns: he
+- 📫 I work with small farmers communities in Southern Illinois
+- 😄 Pronouns: all
 - ⚡ Fun fact: I was a psychoterapis who got obsessed with technology and innovation
 
 <!---
